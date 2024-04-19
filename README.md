@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/u6feovxntcwo15xc?svg=true)](https://ci.appveyor.com/project/SlivaIvan/setcharakter)
+[![Build status](https://ci.appveyor.com/api/projects/status/7t5xjq2p10km68dx?svg=true)](https://ci.appveyor.com/project/SlivaIvan/maperror)
